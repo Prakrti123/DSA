@@ -2,4 +2,4 @@
 
 _*Oraganized Folder Structure*_
 
-<img src="https://www.programiz.com/sites/tutorial2program/files/how-to-dsa-2.png" width='300px' height='auto'/>
+<img src="https://www.programiz.com/sites/tutorial2program/files/how-to-dsa-2.png" width='320px' height='auto' style="border-radius: 6px"/>
